@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Jiwoo subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Music" title="Music">
+            <outline type="rss" text="hse's YouTube Videos" title="hse's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLGqP6vnozgDLAYU8nYJJxmYhiRMPKQztg"/>
+            <outline type="rss" text="LOONA Guitar Covers" title="LOONA Guitar Covers" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLXcgUvHVQhxoDH76WdK9MfGnJfxvlkg8K"/>
+        </outline>
+        <outline text="LOONA/fansites" title="LOONA/fansites">
+            <outline type="rss" text="ODS's YouTube Videos" title="ODS's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Ijww7lh-B0fsDMFYF_Vhg" htmlUrl="https://www.youtube.com/channel/UC2Ijww7lh-B0fsDMFYF_Vhg"/>
+            <outline type="rss" text="Lovely Sign's YouTube Videos" title="Lovely Sign's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqT6dujZIGh6c7rmq9XGbvQ" htmlUrl="https://www.youtube.com/channel/UCqT6dujZIGh6c7rmq9XGbvQ"/>
+            <outline type="rss" text="loonasthinker" title="loonasthinker" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCliyDo7auF7sd6UtdCf7hkQ" htmlUrl="https://www.youtube.com/channel/UCliyDo7auF7sd6UtdCf7hkQ"/>
+            <outline type="rss" text="loonascans on Twitter" title="loonascans on Twitter" xmlUrl="https://rssbox.herokuapp.com/twitter/1008464226619359232/loonascans?with_media=1" htmlUrl="https://twitter.com/loonascans"/>
+            <outline type="rss" text="locomotion's YouTube Videos" title="locomotion's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYqWbswm5_6GMHvpu1gfrVQ" htmlUrl="https://www.youtube.com/channel/UCYqWbswm5_6GMHvpu1gfrVQ"/>
+            <outline type="rss" text="유안's YouTube Videos" title="유안's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDo4dpK0c2qEDyDwZsJT4HA" htmlUrl="https://www.youtube.com/channel/UCDo4dpK0c2qEDyDwZsJT4HA"/>
+            <outline type="rss" text="마멜츄's YouTube Videos" title="마멜츄's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-3AqErdMTTASbmYFPWWZIQ" htmlUrl="https://www.youtube.com/channel/UC-3AqErdMTTASbmYFPWWZIQ"/>
+            <outline type="rss" text="김쩨리's YouTube Videos" title="김쩨리's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCqMOudepWxaqF88qx6HYzA" htmlUrl="https://www.youtube.com/channel/UCCqMOudepWxaqF88qx6HYzA"/>
+            <outline type="rss" text="deflatingballoon's YouTube Videos" title="deflatingballoon's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmoqbbQZ5XoJzHty1rmeqmg" htmlUrl="https://www.youtube.com/channel/UCmoqbbQZ5XoJzHty1rmeqmg"/>
+        </outline>
+        <outline text="People/Funny" title="People/Funny">
+            <outline type="rss" text="KnowledgeHub" title="KnowledgeHub" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2_KC8lshtCyiLApy27raYw" htmlUrl="https://www.youtube.com/channel/UC2_KC8lshtCyiLApy27raYw"/>
+            <outline type="rss" text="Internet Historian" title="Internet Historian" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR1D15p_vdP3HkrH8wgjQRw" htmlUrl="https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw"/>
+            <outline type="rss" text="Internet Historian second channel" title="Internet Historian second channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8Q7XEy86Q7T-3kNpNjYgwA" htmlUrl="https://www.youtube.com/channel/UC8Q7XEy86Q7T-3kNpNjYgwA"/>
+            <outline type="rss" text="Sam O'Nella Academy" title="Sam O'Nella Academy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1DTYW241WD64ah5BFWn4JA" htmlUrl="https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA"/>
+            <outline type="rss" text="Internet Comment Etiquette with Erik" title="Internet Comment Etiquette with Erik" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyWDmyZRjrGHeKF-ofFsT5Q" htmlUrl="https://www.youtube.com/channel/UCyWDmyZRjrGHeKF-ofFsT5Q"/>
+        </outline>
+        <outline text="LOONA/tumbler" title="LOONA/tumbler">
+            <outline type="rss" text="loona" title="loona" xmlUrl="https://yvesha.tumblr.com/rss" htmlUrl="https://yvesha.tumblr.com/"/>
+            <outline type="rss" text="Just Loona" title="Just Loona" xmlUrl="https://cutieloona.tumblr.com/rss" htmlUrl="https://cutieloona.tumblr.com/"/>
+            <outline type="rss" text="ORBITLOONA" title="ORBITLOONA" xmlUrl="https://orbitloona.tumblr.com/rss" htmlUrl="https://orbitloona.tumblr.com/"/>
+            <outline type="rss" text="𝐋𝐎𝐕𝐄 𝐅𝐎𝐎𝐋 ! ♡ ‧₊ ˚" title="𝐋𝐎𝐕𝐄 𝐅𝐎𝐎𝐋 ! ♡ ‧₊ ˚" xmlUrl="https://cchuu.tumblr.com/tagged/chuu/rss" htmlUrl="https://cchuu.tumblr.com/"/>
+            <outline type="rss" text="pear's (hiatus)" title="pear's (hiatus)" xmlUrl="https://pearmadoo.tumblr.com/rss" htmlUrl="https://pearmadoo.tumblr.com/"/>
+            <outline type="rss" text="𝐜𝐫𝐲 𝐟𝐨𝐫 𝐦𝐞" title="𝐜𝐫𝐲 𝐟𝐨𝐫 𝐦𝐞" xmlUrl="https://jiwoo.tumblr.com/rss" htmlUrl="https://jiwoo.tumblr.com/"/>
+        </outline>
+        <outline text="LOONA/Trans" title="LOONA/Trans">
+            <outline type="rss" text="WAYLOONA's YouTube Videos" title="WAYLOONA's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCChufg1-ZiuiOofaw0Mecqw" htmlUrl="https://www.youtube.com/channel/UCChufg1-ZiuiOofaw0Mecqw"/>
+            <outline type="rss" text="caskerbox on Twitter" title="caskerbox on Twitter" xmlUrl="https://rssbox.herokuapp.com/twitter/880195321225150465/caskerbox?with_media=1" htmlUrl="https://twitter.com/caskerbox"/>
+            <outline type="rss" text="LOONACORE's YouTube Videos" title="LOONACORE's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxss-d-FMVXgz8OowzBl5bg" htmlUrl="https://www.youtube.com/channel/UCxss-d-FMVXgz8OowzBl5bg"/>
+            <outline type="rss" text="Frequency of the Moon's YouTube Videos" title="Frequency of the Moon's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUwdXMMauBP_Ybyq-I1eAVQ" htmlUrl="https://www.youtube.com/channel/UCUwdXMMauBP_Ybyq-I1eAVQ"/>
+            <outline type="rss" text="orrery_nim on Twitter" title="orrery_nim on Twitter" xmlUrl="https://rssbox.herokuapp.com/twitter/1016078935400931328/orrery_nim?with_media=1" htmlUrl="https://twitter.com/orrery_nim"/>
+            <outline type="rss" text="Team Subbits's YouTube Videos" title="Team Subbits's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSVk5dK9iJOmOhrQxSZSZ4Q" htmlUrl="https://www.youtube.com/channel/UCSVk5dK9iJOmOhrQxSZSZ4Q"/>
+        </outline>
+        <outline text="LOONA/General" title="LOONA/General">
+            <outline type="rss" text="loonapress on Twitter" title="loonapress on Twitter" xmlUrl="https://rssbox.herokuapp.com/twitter/1225017197761908738/loonapress?with_media=1" htmlUrl="https://twitter.com/loonapress"/>
+            <outline type="rss" text="@loonapress on Twitter" title="@loonapress on Twitter" xmlUrl="https://fetchrss.com/rss/606914be0df7ae7b55771f72607da843d0dc164768779f73.xml" htmlUrl="https://fetchrss.com/account"/>
+            <outline type="rss" text="LOOΠΔ YouTube Channel" title="LOOΠΔ YouTube Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOJplhB0wGQWv9OuRmMT-4g" htmlUrl="https://www.youtube.com/channel/UCOJplhB0wGQWv9OuRmMT-4g"/>
+            <outline type="rss" text="r/KimJiwoo" title="r/KimJiwoo" xmlUrl="https://reddit.0qz.fun/r/KimJiwoo.json" htmlUrl="https://github.com/trashhalo/reddit-rss"/>
+            <outline type="rss" text="오떼르 Hauteur the day's YouTube Videos" title="오떼르 Hauteur the day's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA3IECrL0SXVfyv667lIj5Q" htmlUrl="https://www.youtube.com/channel/UCA3IECrL0SXVfyv667lIj5Q"/>
+            <outline type="rss" text="지구를 지켜츄 Chuu Can Do It (YouTube)" title="지구를 지켜츄 Chuu Can Do It (YouTube)" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChK2DhvPSG3sY0jIYYngVBA" htmlUrl="https://www.youtube.com/channel/UChK2DhvPSG3sY0jIYYngVBA"/>
+            <outline type="rss" text="시리즈 상세보기" title="시리즈 상세보기" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f7260692040d5ddd833bc480fa2.xml" htmlUrl="http://fetchrss.com/account"/>
+            <outline type="rss" text="r/LOOΠΔ" title="r/LOOΠΔ" xmlUrl="https://reddit.0qz.fun/r/LOONA.json" htmlUrl="https://github.com/trashhalo/reddit-rss"/>
+            <outline type="rss" text="INTL_LOONA on Twitter" title="INTL_LOONA on Twitter" xmlUrl="https://rssbox.herokuapp.com/twitter/1022513279317553152/INTL_LOONA?with_media=1" htmlUrl="https://twitter.com/INTL_LOONA"/>
+            <outline type="rss" text="loonatheworld on Twitter" title="loonatheworld on Twitter" xmlUrl="https://rssbox.herokuapp.com/twitter/770959712791597056/loonatheworld?with_media=1" htmlUrl="https://twitter.com/loonatheworld"/>
+            <outline type="rss" text="loonaboard on Twitter" title="loonaboard on Twitter" xmlUrl="https://rssbox.herokuapp.com/twitter/963534574578958337/loonaboard?with_media=1" htmlUrl="https://twitter.com/loonaboard"/>
+            <outline type="rss" text="ginggingeeee on Twitter" title="ginggingeeee on Twitter" xmlUrl="https://rssbox.herokuapp.com/twitter/946541221668728832/ginggingeeee?with_media=1" htmlUrl="https://twitter.com/ginggingeeee"/>
+        </outline>
+        <outline text="People/Education" title="People/Education">
+            <outline type="rss" text="Fredrik Knudsen" title="Fredrik Knudsen" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbWcXB0PoqOsAvAdfzWMf0w" htmlUrl="https://www.youtube.com/channel/UCbWcXB0PoqOsAvAdfzWMf0w"/>
+            <outline type="rss" text="Jordan B Peterson (Site)" title="Jordan B Peterson (Site)" xmlUrl="https://www.jordanbpeterson.com/feed/" htmlUrl="https://www.jordanbpeterson.com"/>
+            <outline type="rss" text="exurb1a" title="exurb1a" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg" htmlUrl="https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg"/>
+            <outline type="rss" text="Jordan B Peterson (YouTube)" title="Jordan B Peterson (YouTube)" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q" htmlUrl="https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q"/>
+            <outline type="rss" text="CGP Grey" title="CGP Grey" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w" htmlUrl="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w"/>
+            <outline type="rss" text="Tom Scott" title="Tom Scott" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A" htmlUrl="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A"/>
+        </outline>
+        <outline text="People/Tech" title="People/Tech">
+            <outline type="rss" text="Jim Browning" title="Jim Browning" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBNG0osIBAprVcZZ3ic84vw" htmlUrl="https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw"/>
+            <outline type="rss" text="Luke Smith (Site)" title="Luke Smith (Site)" xmlUrl="https://lukesmith.xyz/rss.xml" htmlUrl="https://lukesmith.xyz/rss.xml"/>
+            <outline type="rss" text="SomeOrdinaryGamers" title="SomeOrdinaryGamers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ" htmlUrl="https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ"/>
+            <outline type="rss" text="Luke's Videos" title="Luke's Videos" xmlUrl="https://videos.lukesmith.xyz/feeds/videos.xml?sort=-publishedAt&amp;filter=local" htmlUrl="https://videos.lukesmith.xyz"/>
+            <outline type="rss" text="Wolfgang's Channel" title="Wolfgang's Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg" htmlUrl="https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg"/>
+            <outline type="rss" text="The Hated One" title="The Hated One" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q" htmlUrl="https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q"/>
+        </outline>
+        <outline text="LOONA/Facebook" title="LOONA/Facebook">
+            <outline type="rss" text="Thinking about chuu on Facebook" title="Thinking about chuu on Facebook" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f72606919d27dad606f80240ed2.xml" htmlUrl="http://fetchrss.com/account"/>
+            <outline type="rss" text="LOONA a Chuu Chuu on Facebook" title="LOONA a Chuu Chuu on Facebook" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f72606915b53d3313414a4c15c2.xml" htmlUrl="https://www.facebook.com/loonachuuchuu"/>
+            <outline type="rss" text="𝚕𝚘𝚘𝚗𝚊 𝚛𝚊𝚗𝚍𝚘𝚖 𝚝𝚑𝚒𝚗𝚐𝚜 on Facebook" title="𝚕𝚘𝚘𝚗𝚊 𝚛𝚊𝚗𝚍𝚘𝚖 𝚝𝚑𝚒𝚗𝚐𝚜 on Facebook" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f72606914e8a704df0b0b7aaf52.xml" htmlUrl="https://www.facebook.com/loonarandomthings"/>
+            <outline type="rss" text="Jovian Planet - For LOOПΔ / LOONA on Facebook" title="Jovian Planet - For LOOПΔ / LOONA on Facebook" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f72606916bbfae50d386e7f14e2.xml" htmlUrl="https://www.facebook.com/JovianPlanet"/>
+            <outline type="rss" text="JUST LOONA on Facebook" title="JUST LOONA on Facebook" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f7260691936516c241b9534c262.xml" htmlUrl="http://fetchrss.com/account"/>
+            <outline type="rss" text="Maybe not a LOOΠΔ page on Facebook" title="Maybe not a LOOΠΔ page on Facebook" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f7260691774e8b89d3bfc21d8a2.xml" htmlUrl="https://www.facebook.com/ThisIsNotALoonaPage"/>
+            <outline type="rss" text="LOONA the cursed posts on Facebook" title="LOONA the cursed posts on Facebook" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f7260691863e0fe120c7b2a3342.xml" htmlUrl="http://fetchrss.com/account"/>
+            <outline type="rss" text="SATAN LOONA on Facebook" title="SATAN LOONA on Facebook" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f726069168a3d6f97255e044e12.xml" htmlUrl="https://www.facebook.com/iSatanLoona"/>
+            <outline type="rss" text="LOONA Supremacy on Facebook" title="LOONA Supremacy on Facebook" xmlUrl="http://fetchrss.com/rss/606914be0df7ae7b55771f726069187f8f8f4450145ac162.xml" htmlUrl="http://fetchrss.com/account"/>
+        </outline>
+        <outline text="LOONA/memes" title="LOONA/memes">
+            <outline type="rss" text="Loona things -달소 하는 일" title="Loona things -달소 하는 일" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoZCFu2D05A9AFkjG7BA7UQ" htmlUrl="https://www.youtube.com/channel/UCoZCFu2D05A9AFkjG7BA7UQ"/>
+            <outline type="rss" text="DuckDuckRosie's YouTube Videos" title="DuckDuckRosie's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2RlaNcHEm9G2p3J7E7Jyug" htmlUrl="https://www.youtube.com/channel/UC2RlaNcHEm9G2p3J7E7Jyug"/>
+            <outline type="rss" text="driftnorth's YouTube Videos" title="driftnorth's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE9giEwAbiiahVWmCqGWh_Q" htmlUrl="https://www.youtube.com/channel/UCE9giEwAbiiahVWmCqGWh_Q"/>
+            <outline type="rss" text="Orbit - Olight's YouTube Videos" title="Orbit - Olight's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQgtlTeHYuPWYeWStrMiTyg" htmlUrl="https://www.youtube.com/channel/UCQgtlTeHYuPWYeWStrMiTyg"/>
+            <outline type="rss" text="hyestalgic's YouTube Videos" title="hyestalgic's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIR2W15Yc1CW9aXnq8L9FHA" htmlUrl="https://www.youtube.com/channel/UCIR2W15Yc1CW9aXnq8L9FHA"/>
+            <outline type="rss" text="YveSoul 97's YouTube Videos" title="YveSoul 97's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV5EaiBSgi1MzOd_cIiwXIQ" htmlUrl="https://www.youtube.com/channel/UCV5EaiBSgi1MzOd_cIiwXIQ"/>
+            <outline type="rss" text="Blackwhite's YouTube Videos" title="Blackwhite's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTtB6d9W6DhXYMKRzqzS3eA" htmlUrl="https://www.youtube.com/channel/UCTtB6d9W6DhXYMKRzqzS3eA"/>
+            <outline type="rss" text="감자밍 Gamjamiv's YouTube Videos" title="감자밍 Gamjamiv's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9B80_Kof7AJbdk8VkZIVOQ" htmlUrl="https://www.youtube.com/channel/UC9B80_Kof7AJbdk8VkZIVOQ"/>
+            <outline type="rss" text="츄는 너무 귀엽츄" title="츄는 너무 귀엽츄" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvD7JwPvYlVSYZwrroZIEqw" htmlUrl="https://www.youtube.com/channel/UCvD7JwPvYlVSYZwrroZIEqw"/>
+            <outline type="rss" text="iwlmt's YouTube Videos" title="iwlmt's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCi4gn67Zjb7qJfXw9Vr6TAw" htmlUrl="https://www.youtube.com/channel/UCi4gn67Zjb7qJfXw9Vr6TAw"/>
+            <outline type="rss" text="burped's YouTube Videos" title="burped's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCypR2kZ2iejjDymnZA611iQ" htmlUrl="https://www.youtube.com/channel/UCypR2kZ2iejjDymnZA611iQ"/>
+            <outline type="rss" text="awwwCHUU's YouTube Videos" title="awwwCHUU's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC820ZohhB94IW88uqdt7m4A" htmlUrl="https://www.youtube.com/channel/UC820ZohhB94IW88uqdt7m4A"/>
+            <outline type="rss" text="LOONAVERSE's YouTube Videos" title="LOONAVERSE's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC42CFvGtRn2jPiERVaTmA_g" htmlUrl="https://www.youtube.com/channel/UC42CFvGtRn2jPiERVaTmA_g"/>
+            <outline type="rss" text="LONG LOST's YouTube Videos" title="LONG LOST's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCTAxbgDnA7aGacGfT5qtHA" htmlUrl="https://www.youtube.com/channel/UCCTAxbgDnA7aGacGfT5qtHA"/>
+            <outline type="rss" text="choerridaero's YouTube Videos" title="choerridaero's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLRneXhjvFxSvaKR4brP45A" htmlUrl="https://www.youtube.com/channel/UCLRneXhjvFxSvaKR4brP45A"/>
+            <outline type="rss" text="rap no no no's YouTube Videos" title="rap no no no's YouTube Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJSt9hmST7whPiR1eVCELpQ" htmlUrl="https://www.youtube.com/channel/UCJSt9hmST7whPiR1eVCELpQ"/>
+            <outline type="rss" text="nocontextloona on Twitter" title="nocontextloona on Twitter" xmlUrl="https://rssbox.herokuapp.com/twitter/1256411619606908928/nocontextloona?with_media=1" htmlUrl="https://twitter.com/nocontextloona"/>
+            <outline type="rss" text="r/LOOΠΔMemes" title="r/LOOΠΔMemes" xmlUrl="https://reddit.0qz.fun/r/LOONAmemes.json" htmlUrl="https://github.com/trashhalo/reddit-rss"/>
+            <outline type="rss" text="loowicee" title="loowicee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoeRV5bxhrDNnis5K_ZNTlQ" htmlUrl="https://www.youtube.com/channel/UCoeRV5bxhrDNnis5K_ZNTlQ"/>
+        </outline>
+    </body>
+</opml>

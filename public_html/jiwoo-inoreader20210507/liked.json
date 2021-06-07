@@ -1,0 +1,14 @@
+{
+  "direction":"rtl",
+  "id":"user\/-\/state\/com.google\/like",
+  "title":"Liked",
+  "description":"",
+  "self":{
+    "href":"https:\/\/www.inoreader.com\/reader\/api\/0\/stream\/contents\/user\/-\/state\/com.google\/like?output=json\u0026n=1000"
+  },
+  "updated":1620341573,
+  "updatedUsec":"1620341573160416",
+  "items":[
+    
+  ]
+}

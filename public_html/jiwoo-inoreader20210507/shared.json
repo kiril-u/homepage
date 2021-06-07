@@ -1,0 +1,25 @@
+{
+  "direction":"rtl",
+  "id":"user\/-\/state\/com.google\/broadcast",
+  "title":"Broadcasted",
+  "description":"",
+  "self":{
+    "href":"https:\/\/www.inoreader.com\/reader\/api\/0\/stream\/contents\/user\/-\/state\/com.google\/broadcast?output=json\u0026n=1000"
+  },
+  "updated":1620341573,
+  "updatedUsec":"1620341573199194",
+  "profileInfo":{
+    "id":"1004771580",
+    "name":"Kim Jiwoo",
+    "username":"jiwoo",
+    "summary":"I use twitter only for LOONA stuff.",
+    "profileURL":"https:\/\/www.inoreader.com\/u\/jiwoo",
+    "profilePicture":"https:\/\/www.inoreader.com\/cdn\/profile_picture\/1004771580\/iLsYwtbNB3Me?s=212",
+    "registeredOn":1618712639,
+    "subscribers":0,
+    "broadcasts":0
+  },
+  "items":[
+    
+  ]
+}

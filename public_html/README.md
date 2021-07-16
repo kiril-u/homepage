@@ -10,3 +10,4 @@ Note: it's shit and useless for anyone who isn't me, probably.
 - reorder the sites so similar types of sites (e.g. SNS, scrobbling) will be grouped together
 - https://gitlab.com/ (?)
 - ✔️ remove useless files
+- links to favorite git repos (?)

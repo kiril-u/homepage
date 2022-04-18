@@ -1,42 +1,32 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-	<title>homepage</title>
+	<title>Homepage</title>
 	<link rel="shortcut icon" href="ico/favicon.ico" type="image/x-icon" />
 	<meta charset="UTF-8">
 	<meta name="author" content="kiril-u">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Personal oldschool homepage. Relevant basically for no one except the creator.">
-
-	<style>
-	    body {background-color: black;}
-	    h1 {color: white;}
-	    h2 {color: white;}
-	    h3 {color: white;}
-	    p {color: white;}
-	</style>
+	<meta name="description" content="Personal old school homepage.">
+	<link href='./style.css' rel='stylesheet'>
 
 </head>
-
-<!-- <body style="background-color:black;"> -->
 <body>
-<header>
-<center>
-<!-- HEADER -->
-<h3><font color="white">homepage</font></h3><p></p>
-<img src="ico/moon128.png" width="64" align="center">
-</center>
-</header>
-<!-- LINKS -->
+	<div class='header'>
+		<h1>Homepage</h1>
+		<img src="ico/moon128.png">
+		
+	</div>
+
 <nav>
-<center>
-<p></p>
-<a href="http://192.168.1.1">router</a>
-<a href="brave://flags/">config</a>
-<a href="spotify.html"><b><font color=green>spotify</font></b></a>
-<p></p>
+	<center>
+	<p></p>
+		<a href="http://192.168.1.1">[router]</a>
+		<a href="brave://flags/">[config]</a>
+		<a href="spotify.html" id='spotify-link'>[spotify]</a>
+	<p></p>
+	
 <!-- GOOGLE SEARCH -->
-<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+<form action="https://www.google.com/search" class="searchform" method="get" name="searchform">
 <input name="sitesearch" type="hidden">
 <input autocomplete="on" class="form-control search" name="q" placeholder="Search in Google" required="required"  type="text">
 <button class="button" type="submit">Search</button>
@@ -44,115 +34,108 @@
 <p></p>
 </center>
 </nav>
+
 <section>
 <center>
 <!-- SECTIONS DIVIDER -->
-<table border=0 align="top">
+<table border=0 align="top" class='maintable'>
 <tr><td>
 	<table border=0 align="top">
 	<tr>
-	<td><font color="white" size=4>websites</font></td>
-	<td>&nbsp &nbsp</td>
-	<td><font color="white" size=4>extensions</font></td>
-	<td>&nbsp &nbsp</td>
-	</tr>
-	<tr>
 	<td>
 	<!-- WEBSITES TABLE -->
-		<table border="2" bgcolor="#484848">
+	<h2>Websites</h2>
+		<table border="1" bgcolor="#484848" class='iconstable'>
 		<tr>
-		<td><a href="https://www.youtube.com" target="_blank"><img src="ico/youtube.png" width="48"></a></td>
-		<td><a href="https://web.whatsapp.com/" target="_blank"><img src="ico/whatsapp.png" width="48"></a></td>
-		<td><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="ico/gmail.ico" width="48"></a></td>
-		<td><a href="https://login.payoneer.com/" target="_blank"><img src="ico/payoneer.ico" width="48"></a></td>
-		<!-- <td><a href="https://www.instagram.com/loonatheworld/" target="_blank"><img src="ico/instagram.png" width="48"></a></td> -->
-		<td><a href="https://www.instagram.com/" target="_blank"><img src="ico/instagram.png" width="48"></a></td>
-		<td><a href="https://sci-hub.se/" target="_blank"><img src="ico/sci-hub.png" width="48"></a></td>
+		<td><a href="https://www.youtube.com"><img src="ico/youtube.png" class='icons'></a></td>
+		<td><a href="https://web.whatsapp.com/"><img src="ico/whatsapp.png" class="icons"></a></td>
+		<td><a href="https://mail.google.com/mail/u/0/#inbox"><img src="ico/gmail.ico" class="icons"></a></td>
+		<td><a href="https://login.payoneer.com/"><img src="ico/payoneer.ico" class="icons"></a></td>
+		<td><a href="https://www.instagram.com/"><img src="ico/instagram.png" class="icons"></a></td>
+		<td><a href="https://sci-hub.se/"><img src="ico/sci-hub.png" class="icons"></a></td>
 		</tr>
 		<tr>
-		<td><a href="https://github.com/dashboard" target="_blank"><img src="ico/github.png" width="48"></a></td>
-		<td><a href="https://yedionsso.yvc.ac.il/yedion/fireflyweb.aspx" target="_blank"><img src="ico/yvc.png" width="48"></a></td>
-		<td><a href="https://secure.last.fm/login" target="_blank"><img src="ico/lastfm.png" width="48"></a></td>
-		<td><a href="https://www.jpopsuki.eu/login.php" target="_blank"><img src="ico/jpopsuki.png" width="48"></a></td>
-		<td><a href="https://rutracker.org/forum/login.php" target="_blank"><img src="ico/rutracker.png" width="48"></a></td>
-		<td><a href="https://iptorrents.me/login.php" target="_blank"><img src="ico/ipt.png" width="48"></a></td>
+		<td><a href="https://github.com/dashboard"><img src="ico/github.png" class="icons"></a></td>
+		<td><a href="https://yedionsso.yvc.ac.il/yedion/fireflyweb.aspx"><img src="ico/yvc.png" class="icons"></a></td>
+		<td><a href="https://secure.last.fm/login"><img src="ico/lastfm.png" class="icons"></a></td>
+		<td><a href="https://www.jpopsuki.eu/login.php"><img src="ico/jpopsuki.png" class="icons"></a></td>
+		<td><a href="https://rutracker.org/forum/login.php"><img src="ico/rutracker.png" class="icons"></a></td>
+		<td><a href="https://iptorrents.me/login.php"><img src="ico/ipt.png" class="icons"></a></td>
 		</tr>
 		<tr>
-		<td><a href="https://www.dropbox.com/login" target="_blank"><img src="ico/dropbox.ico" width="48"></a></td>
-		<td><a href="https://start.1password.com/signin?l=en" target="_blank"><img src="ico/1password.png" width="48"></a></td>
-		<td><a href="https://www.abuseipdb.com/" target="_blank"><img src="ico/abuseipdb.png" width="48"></a></td>
-		<td><a href="https://www.virustotal.com/gui/sign-in" target="_blank"><img src="ico/virustotal.svg" width="48"></a></td>
-		<!-- <td><a href="https://www.facebook.com/loonatheworld/" target="_blank"><img src="ico/facebook.png" width="48"></a></td> -->
-		<td><a href="https://www.facebook.com/" target="_blank"><img src="ico/facebook.png" width="48"></a></td>
-		<!-- <td><a href="https://twitter.com/loonatheworld" target="_blank"><img src="ico/twitter.png" width="48"></a></td>	-->
-		<td><a href="https://twitter.com/" target="_blank"><img src="ico/twitter.png" width="48"></a></td>	
+		<td><a href="https://www.dropbox.com/login"><img src="ico/dropbox.ico" class="icons"></a></td>
+		<td><a href="https://start.1password.com/signin?l=en"><img src="ico/1password.png" class="icons"></a></td>
+		<td><a href="https://www.abuseipdb.com/"><img src="ico/abuseipdb.png" class="icons"></a></td>
+		<td><a href="https://www.virustotal.com/gui/sign-in"><img src="ico/virustotal.svg" class="icons"></a></td>
+		<td><a href="https://www.facebook.com/"><img src="ico/facebook.png" class="icons"></a></td>
+		<td><a href="https://twitter.com/"><img src="ico/twitter.png" class="icons"></a></td>	
 		</tr>
 		<tr>
-		<td><a href="https://channels.vlive.tv/E1F3A7" target="_blank"><img src="ico/vlive.png" width="48"></a></td>
-		<td><a href="https://cafe.daum.net/loonatheworld" target="_blank"><img src="ico/loonatheworld.png" width="48"></a></td>
-		<!-- <td><a href="https://www.reddit.com/r/LOONA/" target="_blank"><img src="ico/reddit.png" width="48"></a></td> -->
-		<td><a href="https://www.reddit.com/" target="_blank"><img src="ico/reddit.png" width="48"></a></td>
-		<td><a href="https://cdimage.debian.org/mirror/cdimage/" target="_blank"><img src="ico/debian.png" width="48"></a></td>
-		<td><a href="https://rssbox.herokuapp.com/" target="_blank"><img src="ico/rss.png" width="48"></a></td>
-		<td><a href="https://www.inoreader.com/all_articles" target="_blank"><img src="ico/inoreader.jpg" width="48"></a></td>
+		<td><a href="https://channels.vlive.tv/E1F3A7"><img src="ico/vlive.png" class="icons"></a></td>
+		<td><a href="https://cafe.daum.net/loonatheworld"><img src="ico/loonatheworld.png" class="icons"></a></td>
+		<td><a href="https://www.reddit.com/"><img src="ico/reddit.png" class="icons"></a></td>
+		<td><a href="https://cdimage.debian.org/mirror/cdimage/"><img src="ico/debian.png" class="icons"></a></td>
+		<td><a href="https://rssbox.herokuapp.com/"><img src="ico/rss.png" class="icons"></a></td>
+		<td><a href="https://www.inoreader.com/all_articles"><img src="ico/inoreader.jpg" class="icons"></a></td>
 		</tr>
 		
 		<tr>
-		<td><a href="https://translate.google.com/" target="_blank"><img src="ico/translate.png" width="48"></a></td>
-		<td><a href="https://libre.fm/user/jiwoo" target="_blank"><img src="ico/librefm.png" width="48"></a></td>
-		<td><a href="https://listenbrainz.org/" target="_blank"><img src="ico/listenbrainz.png" width="48"></a></td>
-		<td><a href="https://www.000webhost.com/" target="_blank"><img src="ico/000webhost.png" width="48"></a></td>
-		<td><a href="https://www.ebay.com/myb/Summary" target="_blank"><img src="ico/ebay.png" width="48"></a></td>
-		<td><a href="https://www.amazon.com/" target="_blank"><img src="ico/amazon.png" width="48"></a></td>
+		<td><a href="https://translate.google.com/"><img src="ico/translate.png" class="icons"></a></td>
+		<td><a href="https://libre.fm/user/jiwoo"><img src="ico/librefm.png" class="icons"></a></td>
+		<td><a href="https://listenbrainz.org/"><img src="ico/listenbrainz.png" class="icons"></a></td>
+		<td><a href="https://www.000webhost.com/"><img src="ico/000webhost.png" class="icons"></a></td>
+		<td><a href="https://www.ebay.com/myb/Summary"><img src="ico/ebay.png" class="icons"></a></td>
+		<td><a href="https://www.amazon.com/"><img src="ico/amazon.png" class="icons"></a></td>
 		</tr>
 		<tr>
-		<td><a href="https://lukesmith.xyz/" target="_blank"><img src="ico/lukesmith.png" width="48"></a></td>
-		<td><a href="https://www.udemy.com/home/my-courses/learning/" target="_blank"><img src="ico/udemy.png" width="48"></a></td>
-		<td><a href="https://rateyourmusic.com/" target="_blank"><img src="ico/rym.png" width="48"></a></td>
-		<td><a href="https://start.telebank.co.il/login/#/LOGIN_PAGE" target="_blank"><img src="ico/discountbank.png" width="48"></a></td>
-		<td><a href="https://www.bankhapoalim.co.il/he/login" target="_blank"><img src="ico/bankhapoalim.jpg" width="48"></a></td>
-		<td><a href="https://e-services.clalit.co.il/onlineweb/general/login.aspx" target="_blank"><img src="ico/clalit.jpg" width="48"></a></td>
+		<td><a href="https://lukesmith.xyz/"><img src="ico/lukesmith.png" class="icons"></a></td>
+		<td><a href="https://www.udemy.com/home/my-courses/learning/"><img src="ico/udemy.png" class="icons"></a></td>
+		<td><a href="https://rateyourmusic.com/"><img src="ico/rym.png" class="icons"></a></td>
+		<td><a href="https://start.telebank.co.il/login/#/LOGIN_PAGE"><img src="ico/discountbank.png" class="icons"></a></td>
+		<td><a href="https://www.bankhapoalim.co.il/he/login"><img src="ico/bankhapoalim.jpg" class="icons"></a></td>
+		<td><a href="https://e-services.clalit.co.il/onlineweb/general/login.aspx"><img src="ico/clalit.jpg" class="icons"></a></td>
 		</tr>
 		</table>
 	</td>
-	<td>&nbsp &nbsp</td>
+	<td>&nbsp</td>
 	<td>
 	<!-- Extensions Table -->
-		<table border="1" align="middle" bgcolor="484848">
+	<h2>Extensions</h2>
+		<table border="1" align="center" bgcolor="484848">
 		<tr>
-		<td><font color="white">@</font></td>
-		<td><img src="ico/librewolf.png" width="32"></td>
-		<td><img src="ico/brave.png" width="32"></td>
+		<td></td>
+		<td><img src="ico/librewolf.png" class="small-icons"></td>
+		<td><img src="ico/brave.png" class="small-icons"></td>
 		</tr>
 		<tr>
-		<td><img src="ico/ublock.png" width="32"></td>
-		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/" target="_blank">[link]</a></td>
-		<td><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm" target="_blank">[link]</a></td>
+		<td><img src="ico/ublock.png" class="small-icons"></td>
+		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">[link]</a></td>
+		<td><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">[link]</a></td>
 		</tr>
 		<tr>
-		<td><img src="ico/sponsorblock.png" width="32"></td>
-		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank">[link]</a></td>
-		<td><a href="https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone" target="_blank">[link]</a></td>
+		<td><img src="ico/sponsorblock.png" class="small-icons"></td>
+		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">[link]</a></td>
+		<td><a href="https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone">[link]</a></td>
 		</tr>
 		<tr>
-		<td><img src="ico/darkreader.png" width="32"></td>
-	<td><a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader/" target="_blank">[link]</a></td>
-	<td><a href="https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en" target="_blank">[link]</a></td>
+		<td><img src="ico/darkreader.png" class="small-icons"></td>
+	<td><a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader/">[link]</a></td>
+	<td><a href="https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en">[link]</a></td>
 		</tr>
 		<tr>
-		<td><img src="ico/1password.png" width="32"></td>
-		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/1password-x-password-manager/" target="_blank">[link]</a></td>
-		<td><a href="https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa" target="_blank">[link]</a></td>
+		<td><img src="ico/1password.png" class="small-icons"></td>
+		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/1password-x-password-manager/">[link]</a></td>
+		<td><a href="https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa">[link]</a></td>
 		</tr>
 		<tr>
-		<td><img src="ico/vimium.webp" width="32"></td>
-		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank">[link]</a></td>
-		<td><a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en" target="_blank">[link]</a></td>
+		<td><img src="ico/vimium.webp" class="small-icons"></td>
+		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">[link]</a></td>
+		<td><a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en">[link]</a></td>
 		</tr>
 		<tr>
-		<td><img src="ico/vdh.png" width="32"></td>
-		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/" target="_blank">[link]</a></td>
-		<td><a href="https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk?hl=iw" target="_blank">[link]</a></td>
+		<td><img src="ico/vdh.png" class="small-icons"></td>
+		<td><a href="https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/">[link]</a></td>
+		<td><a href="https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk?hl=iw">[link]</a></td>
 		</tr>
 		</table>
 	</td>
@@ -161,6 +144,7 @@
 	<br>
 </center>
 </section>
+
 <footer>
 <center>
 <a href="https://github.com/kiril-u/homepage">source</a>

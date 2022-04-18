@@ -4,3 +4,5 @@ public_html/spotify.html
 *.html~
 
 public_html/deleted-parts/
+
+*.css~

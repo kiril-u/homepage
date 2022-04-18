@@ -1,0 +1,72 @@
+body { background-color: black; }
+
+h1,
+h2,
+h3,
+a {
+	font-family: monospace, serif;
+	color: gray;
+	text-align: center;
+	text-decoration: none;
+}
+
+h1:hover { color: lightgray; }
+h2:hover { color: lightgray; }
+h3:hover { color: lightgray; }
+
+h1 { 
+	font-size: 22px;
+	padding-top: 25px; 
+}
+
+h2 { 
+	font-size: 18px;
+	margin: 3px auto;
+}
+
+h3 { font-size: 14px; }
+
+a:hover { 
+	color: lightgray;
+	text-decoration: underline;
+}
+
+.header img {
+	width:48px;
+	height:48px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img:hover { opacity: 0.75; }
+
+table.iconstable {
+	border: 1px solid darkgray;
+	margin: 1px;
+}
+
+table.maintable {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.icons {
+	width: 48px;
+	height: 48px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.small-icons {
+	width: 32px;
+	height: 32px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.last {
+	padding-bottom: 25px;
+}

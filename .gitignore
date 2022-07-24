@@ -8,3 +8,7 @@ public_html/deleted-parts/
 *.css~
 
 public_html/index-backup.html
+
+public_html/ico-original-size/
+
+public_html/ico-resized-64x64/

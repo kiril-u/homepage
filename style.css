@@ -10,18 +10,18 @@ a {
 	color: #ffffff;
 }
 
-h1:hover { 
+h1:hover {
 	color: #ffffff;
 	text-decoration: bold;
 }
 
-h2:hover { 
-	color: lightgray; 
+h2:hover {
+	color: #000000;
 	text-decoration: bold;
 }
 
-h3:hover { 
-	color: lightgray; 
+h3:hover {
+	color: #000000;
 	text-decoration: bold;
 }
 
@@ -65,13 +65,13 @@ h3 {
 }
 
 .links a:hover {
-	font-size: 24px; 
-	font-size-adjust: 28px; 
+	font-size: 24px;
+	font-size-adjust: 28px;
 	font-weight: bold;
 	margin-top: 100px;
-	text-align: center; 
+	text-align: center;
 	color: #ffffff;
-	text-decoration: none; 
+	text-decoration: none;
 	line-height: 1.25;
 }
 
@@ -152,9 +152,9 @@ td.iconstable {
 }
 
 .mainicons {
-	line-height: 1.0; 
-	text-align: center; 
-	margin: auto; 
-	border: 0px; 
+	line-height: 1.0;
+	text-align: center;
+	margin: auto;
+	border: 0px;
 	padding: 0px;
 }
